@@ -41,13 +41,18 @@ function getData() {
 	}
 
 	fetch(url)
-		.then(function(response) {
+		.then(function (response) {
 			return response.json();
 		})
-		.then(function(data) {
+		.then(function (data) {
 			makeitwork(data);
 		})
-		.catch(function() {
+		.catch(function () {
 			console.log('Allow it man');
 		});
 }
+window.onload =
+	function autofillAtStart() {
+		place.value = 'Dehradun';
+		getData();
+	}
