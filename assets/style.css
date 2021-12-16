@@ -109,6 +109,12 @@ img {
     height: auto;
 }
 
+.center {
+    margin: auto;
+    padding-top: 2em;
+    font-size: 2em;
+}
+
 @keyframes colorchange {
     0% {
         color: #F9F3DF;
