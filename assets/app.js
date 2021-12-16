@@ -40,6 +40,16 @@ function getData() {
 		</div>`;
 	}
 
+
+	function notfound() {
+		document.getElementById('show').innerHTML = `
+		<div class="weather-data">	
+		    <div class="center">
+		    Location Not Found
+			</div>
+		</div>`;
+	}
+
 	fetch(url)
 		.then(function (response) {
 			return response.json();
@@ -49,8 +59,10 @@ function getData() {
 		})
 		.catch(function () {
 			console.log('Allow it man');
+			notfound();
 		});
 }
+
 window.onload =
 	function autofillAtStart() {
 		place.value = 'Dehradun';
