@@ -16,7 +16,7 @@ A Web App to give weather of specific city.
  
 <h3>Connect</h3>
 
-<a href="https://singhanubhav.me/projects"><img alt="Website" src="https://img.shields.io/badge/Website-https://singhanubhav.me/-blue?style=flat-square&logo=Webflow"></a>
+<a href="https://anubhavsingh.dev/projects"><img alt="Website" src="https://img.shields.io/badge/Website-https://singhanubhav.me/-blue?style=flat-square&logo=Webflow"></a>
 </p>
 
 <a href="https://www.linkedin.com/in/singhanubhav58/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anubhav%20Singh-blue?style=flat-square&logo=linkedin"></a>  
