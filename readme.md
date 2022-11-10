@@ -12,7 +12,7 @@ A Web App to give weather of specific city.
   
 ![screen-img](assets/ss.png)  
  
- Link : https://singhanubhav.me/weather-app/  
+ Link : https://anubhavsingh.dev/weather-app/  
  
 <h3>Connect</h3>
 
@@ -22,3 +22,4 @@ A Web App to give weather of specific city.
 <a href="https://www.linkedin.com/in/singhanubhav58/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anubhav%20Singh-blue?style=flat-square&logo=linkedin"></a>  
 
 <a href="https://github.com/singhanubhavme"><img alt="Github" src="https://img.shields.io/badge/Github-Anubhav%20Singh-blue?style=flat-square&logo=Github"></a>
+
